@@ -91,3 +91,6 @@ h3 {
 .links:hover {
     background-color:dodgerblue;
 }
+.article:hover{
+    color:crimson;
+}
